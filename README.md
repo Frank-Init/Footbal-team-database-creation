@@ -1,2 +1,3 @@
-# sales-forecast-analysis
-A project to forecast sales
+# CUSTOMER RETENTION AND CHURN ANALYSIS
+----
+## Project overview
